@@ -1,6 +1,6 @@
-# Html JavaScript Web Dashboard Application
+# Dashboard Angular Application
 
-The following application is the DevExpress HTML JavaScript Web Dashboard. The Angular client side is hosted on the [GitHub Pages](https://pages.github.com), while the ASP.NET MVC / Web API server side - on [DevExpress.com](https://www.devexpress.com).
+The following application is an Angular application with the DevExpress Web Dashboard Angular Component inside. The Angular client side is hosted on the [GitHub Pages](https://pages.github.com), while the server side - on [DevExpress.com](https://www.devexpress.com).
 
 **See in action:**
 
@@ -15,6 +15,8 @@ The Web Dashboard can now be easily rendered on the client-side, while having da
 - Integrate a dashboard into any place that supports HTTP requests (e.g., see the [GitHub Pages Demo](https://devexpress.github.io/web-dashboard-demo/)).
 - Publish Web Dashboard as a part of applications based on Angular, Knockout, Vue and similar frameworks.
 - Use the Dashboard side-by-side with [DevExtreme](https://js.devexpress.com) client-side widgets to create highly responsive web apps.
+
+Web Dashboard provides components both for [Angular](https://docs.devexpress.com/Dashboard/400409) and [React](https://docs.devexpress.com/Dashboard/400683), but you can also create a pure [HTML JavaScript Web Dashboard](https://docs.devexpress.com/Dashboard/119108) application.
 
 
 ## Requirements
