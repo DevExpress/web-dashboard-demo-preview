@@ -13,10 +13,10 @@ https://devexpress.github.io/web-dashboard-demo/
 The Web Dashboard can now be easily rendered on the client-side, while having data fed to it by an ASP.NET Core / ASP.NET MVC back-end. This means you can:
 
 - Integrate a dashboard into any place that supports HTTP requests (e.g., see the [GitHub Pages Demo](https://devexpress.github.io/web-dashboard-demo/)).
-- Publish Web Dashboard as a part of applications based on Angular, Knockout, Vue and similar frameworks.
+- Publish Web Dashboard as a part of applications based on Angular.
 - Use the Dashboard side-by-side with [DevExtreme](https://js.devexpress.com) client-side widgets to create highly responsive web apps.
 
-Web Dashboard provides components both for [Angular](https://docs.devexpress.com/Dashboard/400409) and [React](https://docs.devexpress.com/Dashboard/400683), but you can also create a pure [HTML JavaScript Web Dashboard](https://docs.devexpress.com/Dashboard/119108) application.
+Web Dashboard has components both for [Angular](https://docs.devexpress.com/Dashboard/400409) and [React](https://docs.devexpress.com/Dashboard/400683), but you can also create a pure [HTML JavaScript Web Dashboard](https://github.com/devexpress/web-dashboard-demo) application.
 
 
 ## Requirements
