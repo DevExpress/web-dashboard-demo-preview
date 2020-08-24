@@ -1,33 +1,33 @@
 # Dashboard Angular Application
 
-The following application is an Angular application with the DevExpress Web Dashboard Angular Component inside. 
+This is an Angular application that contains the DevExpress Web Dashboard Angular component. 
 
 The Web Dashboard can be rendered on the client-side, while having data fed to it by an ASP.NET Core / ASP.NET MVC back-end. This means you can:
 
-- Publish Web Dashboard as a part of applications based on Angular.
+- Publish a Web Dashboard as part of an Angular application.
 - Integrate a dashboard into any place that supports HTTP requests (e.g., see the [GitHub Pages Demo](https://devexpress.github.io/web-dashboard-demo/)).
 - Use the Dashboard side-by-side with [DevExtreme](https://js.devexpress.com) client-side widgets to create highly responsive web apps.
 
-The Dashboard Angular application is hosted on the [GitHub Pages](https://pages.github.com), while the server side - on [DevExpress.com](https://www.devexpress.com).
+In the following demo, the Dashboard Angular application is hosted on [GitHub](https://pages.github.com) and the server side is hosted on [DevExpress.com](https://www.devexpress.com).
 
-**See in action:** https://devexpress.github.io/web-dashboard-demo/
+**Demo:** https://devexpress.github.io/web-dashboard-demo/
 
 ![html-dashboard-demo](https://user-images.githubusercontent.com/17986517/35871357-13796742-0b75-11e8-9b12-a90de4813b96.png)
 
-> Web Dashboard has components both for [Angular](https://docs.devexpress.com/Dashboard/400409) and [React](https://docs.devexpress.com/Dashboard/400683), but you can also create a pure [HTML JavaScript Web Dashboard](https://github.com/devexpress/web-dashboard-demo) application.
+> Although Web Dashboard components are available for both [Angular](https://docs.devexpress.com/Dashboard/400409) and [React](https://docs.devexpress.com/Dashboard/400683), you can also create an [HTML JavaScript Web Dashboard](https://github.com/devexpress/web-dashboard-demo) application.
 
 
 ## Demo Structure
-The application uses the following DevExpress npm packages:
+This demo application uses the following DevExpress npm packages:
 - `devexpress-dashboard`
 - `devexpress-dashboard-angular`
 - `@devexpress/analytics-core`
 - `devextreme devextreme-angular`
 
-When you create your own application with the Dashboard Angular component, make sure the following requirements are met:
+When you create your own application with a Dashboard Angular component, ensure that the following requirements are met:
 
-- The script version on the client should match with libraries version on the server up to a minor version.
-- Versions of the DevExpress npm packages should be identical (their major and minor versions should be the same).
+- The script version on the client side should match the library version (including the minor version) on the server side.
+- The DevExpress npm package versions should be identical (major and minor versions should be the same).
 
 The client part is an Angular application, where the `DxDashboardControlModule` module is used. Take a look at the following files:
 
@@ -41,7 +41,7 @@ The client part is an Angular application, where the `DxDashboardControlModule` 
 
   Contains the application logic.
   
- The server-side of this project is an ASP.NET Core application hosted on the DevExpress.com.
+ The server side of this project is an ASP.NET Core application hosted on DevExpress.com.
   
  ## Documentation
 
