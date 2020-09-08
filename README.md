@@ -2,11 +2,11 @@
 
 This is an Angular application that contains the DevExpress Web Dashboard Angular component. 
 
-The Web Dashboard can be rendered on the client-side, while having data fed to it by an ASP.NET Core / ASP.NET MVC back-end. This means you can:
+The Web Dashboard can be rendered on the client side, with data supplied by an ASP.NET Core / ASP.NET MVC backend. This allows you to do the following:
 
 - Publish a Web Dashboard as part of an Angular application.
-- Integrate a dashboard into any place that supports HTTP requests (e.g., see the [GitHub Pages Demo](https://devexpress.github.io/web-dashboard-demo/)).
-- Use the Dashboard side-by-side with [DevExtreme](https://js.devexpress.com) client-side widgets to create highly responsive web apps.
+- Integrate a Dashboard into anything that supports HTTP requests (e.g., websites, web applications). See the following demo for details: [DevExpress Dashboard Demo](https://devexpress.github.io/web-dashboard-demo/)).
+- Use the Dashboard with [DevExtreme](https://js.devexpress.com) client-side widgets to create responsive web apps.
 
 In the following demo, the Dashboard Angular application is hosted on [GitHub](https://pages.github.com) and the server side is hosted on [DevExpress.com](https://www.devexpress.com).
 
