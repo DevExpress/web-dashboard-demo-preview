@@ -10,7 +10,7 @@ The Web Dashboard can be rendered on the client side, with data supplied by an A
 
 In the following demo, the Dashboard Angular application is hosted on [GitHub](https://pages.github.com) and the server side is hosted on [DevExpress.com](https://www.devexpress.com).
 
-**Demo:** https://devexpress.github.io/web-dashboard-demo/
+**Demo:** https://devexpress.github.io/web-dashboard-demo-preview/
 
 ![html-dashboard-demo](https://user-images.githubusercontent.com/17986517/35871357-13796742-0b75-11e8-9b12-a90de4813b96.png)
 
