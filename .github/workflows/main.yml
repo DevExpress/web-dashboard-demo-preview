@@ -19,5 +19,6 @@ jobs:
         github_access_token: ${{ secrets.GITHUB_TOKEN }}
         # base href for the app
         base_href: https://devexpress.github.io/web-dashboard-demo-preview/
+        angular_dist_build_folder: dist/web-dashboard-demo-preview
         # branch on which the angular build will be deployed
         deploy_branch: site
